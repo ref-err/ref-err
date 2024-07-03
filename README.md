@@ -1,10 +1,9 @@
-## Hi there 👋
-
+## Hey!
+I'm Referr, A.K.A. Reference Error (yes that's literally what it means)  
+  - Currently learning Go and Java.  
+  - Trying to make Minecraft mods on Fabric.  
+  - Not working on anything rn, but planning to make Go app.  
 <!--
-**ref-err/ref-err** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
