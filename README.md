@@ -11,4 +11,3 @@
 
 ### Contact  
 - [![Discord](https://img.shields.io/badge/Discord-referr__-5865F2?logo=discord&logoColor=white&style=for-the-badge)](#)  
-- [![Reddit](https://img.shields.io/badge/Reddit-referr-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/ref-err)  
