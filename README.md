@@ -1,13 +1,20 @@
-<img src="https://raw.githubusercontent.com/ref-err/ref-err/main/logo.png" width="80" align="left" style="border-radius: 8px;"/>
+# Hi there, I'm ref-err 👋
 
-# Referr (Reference Error)
-**Go Developer**
+## 🛠️ What am I doing here?
 
-### Currently working on...
-- **[go-static](https://github.com/ref-err/go-static)** - A simple file server that runs locally on your PC.
+Mainly, I build tools and apps that (hopefully) make someone's life easier. Sometimes even my own.
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ref-err&layout=compact&theme=dark)](https://github.com/ref-err)
+- **go-static** — A simple file server that runs locally on your PC, written in Go.  
+    ![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go&logoColor=white)
+    ![License](https://img.shields.io/github/license/ref-err/go-static)
+- **WorldMachineLoader** — A mod loader for OneShot: World Machine Edition. This is a forked repo; original creator: thehatkid.  
+    ![Forked](https://img.shields.io/badge/Forked%20from-thehatkid%2FWorldMachineLoader-blueviolet)
+    ![License](https://img.shields.io/github/license/ref-err/WorldMachineLoader)
 
-### Contact  
-- [![Discord](https://img.shields.io/badge/Discord-referr__-5865F2?logo=discord&logoColor=white&style=for-the-badge)](#)  
+## 📡 Contact
+
+- Discord: referr_ (Drop me a DM if you got something on your mind.)
+
+---
+
+_Thanks for stopping by! If you see something interesting, feel free to star, fork, or just silently judge my code. No hard feelings!_
